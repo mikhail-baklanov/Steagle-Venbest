@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="labelColor">#444</color>
+    <color name="statusColor">#8AB800</color>
+    <color name="balansColor">#8AB800</color>
+    <color name="timeZoneColor">#000000</color>
+    <color name="tarifColor">#000000</color>
+
+    <color name="listHeaderBackground">#CCC</color>
+    <color name="listHeaderTextColor">#444</color>
+    <color name="listTextColor">#444</color>
+    <color name="historySwitchSelectedColor">#8AB800</color>
+    <color name="historySwitchSelectedTextColor">#FFFFFF</color>
+    <color name="historySwitchUnselectedColor">#FFFFFF</color>
+    <color name="historySwitchUnselectedTextColor">#8AB800</color>
+</resources>
